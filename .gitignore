@@ -28,3 +28,12 @@ hs_err_pid*
 # Project exclude paths
 /.gradle/
 /build/
+!/gradle/wrapper/gradle-wrapper.jar
+.idea/.gitignore
+.idea/.name
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
