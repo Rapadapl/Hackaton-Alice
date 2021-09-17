@@ -6,7 +6,7 @@ import com.justai.jaicf.model.scenario.Scenario
 
 object Scenario : Scenario() {
     init {
-
+        apply { MainScenario }
         state("main") {
 
             activators {
