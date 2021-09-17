@@ -1,0 +1,8 @@
+root:
+    fuck $Who
+
+slots:
+    who:
+        source: $Who
+$Who:
+    niggers | not niggers
