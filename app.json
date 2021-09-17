@@ -6,7 +6,7 @@
   "image": "heroku/java",
   "env": {
     "OAUTH_TOKEN": {
-      "description": "Ваш OAuth токен, необходим для автоматической загрузки картинок"
+      "description": "AQAAAAAyWM3GAAT7owuw_tRUhkKjkYpi-DVBoiE"
     }
   }
 }
